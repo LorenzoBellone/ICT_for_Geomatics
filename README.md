@@ -9,4 +9,4 @@ ICT for Smart Societies - Politecnico di Torino
 * Lorenzo Bellone
 * [Giulia Ciaramella](https://github.com/GiuliaCiaramella)
 # License
-This project is licensed under the  - see the LICENSE file for details
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details
