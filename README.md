@@ -7,6 +7,6 @@ ICT for Smart Societies - Politecnico di Torino
 * MATLAB
 # Authors
 * Lorenzo Bellone
-* Giulia Ciaramella
+* [Giulia Ciaramella](https://github.com/GiuliaCiaramella)
 # License
 This project is licensed under the  - see the LICENSE file for details
